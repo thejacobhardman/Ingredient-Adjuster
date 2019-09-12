@@ -22,7 +22,7 @@ int main()
 	float butter = numOfCookies * butterNeeded;
 	float flour = numOfCookies * flourNeeded;
 
-	cout << "To make " << numOfCookies << " cookies you will need: \n";
+	cout << "\nTo make " << numOfCookies << " cookies you will need: \n";
 	cout << sugar << " cups of sugar.\n";
 	cout << butter << " cups of butter.\n";
 	cout << flour << " cups of flour.\n";
